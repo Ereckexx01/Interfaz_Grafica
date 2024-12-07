@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: First-Package
+Version: 1.0
+Summary: Paquete creado con el fin de informar sobre propiedades de particulas de Leptones, Neutrinos, Quarks y Bosones
+Home-page: UNKNOWN
+Author: Erick Becerra Marin
+Author-email: erickbecerramarin@ciencias.unam.mx
+License: UNKNOWN
+Description: # First_Package
+        
+        **First_Package** Paqueteria que contiene cierta informacion de particulas elementales, siendo los Leptones, Quarks, Neutrinos y Bosones. Donde en cada grupo se obtienen ciertas propiedades de las particulas de cada grupo. La finalidad de la paqueteria es informar al usuario sobre sus propiedades.
+        
+        ---
+        
+        ## InstalaciÃ³n
+        
+        La paqueteria se puede instarlar mediante la termina usando el comando `pip`despues de clonar el repositorio o los archivos de la paqueteria.
+        
+        ```bash
+        pip install .
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
